@@ -1,0 +1,14 @@
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+F:\Self Study\Route\Back-End\.Net track\Exams\C#\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
